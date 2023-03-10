@@ -1,0 +1,25 @@
+#parargraph-1{
+    color: aquamarine;
+}
+#paragraph-2{
+    
+    border: dashed rgb(3, 3, 3);
+
+}
+#p3{
+    border: 2px;
+    background-color: rgb(8, 8, 189);
+}
+#p4{
+    font-size: 30px;
+}
+#h3{
+    border-left: 4px solid       rgb(233, 158, 170);
+}
+#button{
+    color: aliceblue;
+    background-color: rgb(47, 88, 6);
+}
+#paragraph{
+    border-bottom: 3px solid rgb(211, 86, 3);
+}
